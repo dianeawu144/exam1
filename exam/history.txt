@@ -1,0 +1,225 @@
+   64  git add js img css
+   65  git status
+   66  git commit -m "changed"
+   67  git push origin master
+   68  git push origin master
+   69  git push origin master
+   81  cd git
+   87  git status 
+   89  git status
+   91  git add index1.html index2.html index3.html css/style.css js/js.js
+   92  git commit -m "changed2"
+   93  git pull --no-edit
+   94  git push origin master
+   99  git add index1.html
+  100  git commit -m "changed3"
+  101  git push origin master
+  102  git branch v0.0.1
+  103  git checkout v0.0.1 
+  105  git commit -m "removed files"
+  115  mkdir git
+  116  cp index.html git
+  117  cp /c/Users/A00877633/index.html git
+  118  cp /c/Users/A00877633/index1.html git
+  125  mkdir git
+  126  cp /c/Users/A00877633/index.html git cp/
+  127  mkdir git
+  128  cp /c/Users/A00877633/index.html git/index1.html
+  129  cp /c/Users/A00877633/index.html git/index2.html
+  130  cp /c/Users/A00877633/index.html git/index3.html
+  133  cp /c/Users/A00877633/index.html git/ index1.html
+  143  mkdir git
+  144  cp /c/Users/A00877633/index.html git/index1.html
+  145  cp /c/Users/A00877633/index.html git/index2.html
+  146  cp /c/Users/A00877633/index.html git/index3.html
+  149  cp/c/Users/A000877633/style.css git
+  150  cp style.css git
+  151  cp js.js git
+  152  cd git
+  153  git clone https://github.com/dianeawu144/takehome2.git
+  159  git add js img css
+  161  git commit-m"first changed"
+  162  git commit -m "first commit"
+  163  git push origin master
+  164  git push origin master
+  172  cd git
+  178  git status
+  180  git status
+  182  git add css js index1.html index2.html index3.html
+  183  git commit -m changed1 
+  184  git pull 
+  185  git push origin master
+  188  git add index1.html
+  189  git commit -m "changed2"
+  190  git push origin master
+  191  git branch v0.0.1
+  192  git checkout v0.0.1 
+  193  git rm index2.html index3.html
+  194  git add .
+  195  git commit -m "changed3"
+  196  git push origin master
+  197  git push origin v0.0.1
+  198  git push origin v0.0.1
+  205  mkdir git
+  206  cp index.html git
+  207  cp /c/Users/A00877633/index.html git/
+  208  cp /c/Users/A00877633/index.html git/index1.html
+  209  cp /c/Users/A00877633/index.html git/index2.html
+  210  cp /c/Users/A00877633/index.html git/index3.html
+  214  cp style.css js.js git/
+  216  cd git
+  217  clone https://github.com/dianeawu144/takehome3.git
+  218  git clone https://github.com/dianeawu144/takehome3.git
+  224  git add js img css
+  225  git commit -m "changed"
+  226  git add js/ img/ css/
+  227  git commit -m "changed"
+  228  git push origin master
+  230  cp /c/Users/A00877633/Desktop/git/index1.html index1.html
+  231  cp /c/Users/A00877633/Desktop/git/index2.html index2.html
+  232  cp /c/Users/A00877633/Desktop/git/index3.html index3.html
+  239  git status
+  243  git status
+  245  git status
+  246  git add
+  247  git add css/style.css index1.html index2.html index3.html js/js.js 
+  248  git commit -m"changed1"
+  249  git push
+  250  git pull
+  251  git push origin master
+  254  git add 
+  255  git add index1.html
+  256  git commit -m "changed1"
+  257  git pull
+  258  git push orgin master
+  259  git push origin master
+  260  git branch v0.0.1
+  261  git checkout v0.0.1
+  264  git pull --no-edit
+  265  git checkout master 
+  266  git --no-edit
+  267  git pull --no-edit
+  272  git checkout v0.0.1 
+  273  git rm index2.html index3.html 
+  275  git add index2.html index3.html
+  276  git commit -m"changed3"
+  277  git push origin v0.0.1
+  279  git rm index2.html index3.html 
+  280  git add .
+  281  git commit -m "removed"
+  282  git push origin v0.0.1 
+  284  git checkout master
+  288  cp /c/Users/A00877633/Desktop/*.PNG /c/Users/A00877633/Desktop/git/takehome3/img
+  289  git add .
+  290  git commit -m "changed4"
+  291  git pull
+  292  git push origin master
+  293  git branch v0.0.1
+  294  git checkout v0.0.1
+  295  git merge master
+  296  git add .
+  297  git commit -m "added"
+  298  git pull --no-edit
+  299  git push origin v0.0.1
+  319  mkdir git 
+  320  cd git
+  321  git clone https://github.com/dianeawu144/hi.git
+  338  mkdir git
+  339  cp /c/Users/A00877633/Desktop/index.html git/
+  345  cp /c/Users/A00877633//index.html git/
+  350  mkdir git 
+  351  cp /c/Users/A00877633/index.html git/
+  352  cp /c/Users/A00877633/index.html git/ index1.html
+  353  cp /c/Users/A00877633/index.html git/index1.html
+  354  cp /c/Users/A00877633/index.html git/index2.html
+  355  cp /c/Users/A00877633/index.html git/index3.html
+  357  cp style.css js.js git/
+  360  cp -r git backup
+  387  mkdir git
+  388  cd git
+  389  git clone https://github.com/dianeawu144/exam.git
+  390  cp /c/Users/A00877633/exam2/c/Users/A00877633/Desktop/ git
+  391  cp /c/Users/A00877633/exam2 git/
+  392  cp/Users/A00877633/exam2 git/
+  402  cd git
+  403  cd git 
+  409  mkdir git
+  410  cp /c/Users/A00877633/index.html git/
+  411  cp /c/Users/A00877633/index.html git/index1.html
+  412  cp /c/Users/A00877633/index.html git/index2.html
+  413  cp /c/Users/A00877633/index.html git/index3.html
+  415  cp style.css git/
+  416  cp js.js git/
+  418  cd git
+  419  git clone https://github.com/dianeawu144/takehome.git
+  431  git add .
+  432  git commit -m "change1"
+  433  git push origin master
+  435  cp /c/Users/A00877633/Desktop/git/index1.html index2.html index3.html takehome/
+  437  cp /c/Users/A00877633/Desktop/git/index1.html index2.html index3.html takehome/
+  442  git status
+  443  git add .
+  444  git commit -m"change2"
+  445  git pull --no-edit
+  446  git push origin master
+  447  git push origin master
+  448  git push origin master
+  451  git add index1.html
+  452  git commit -m"chang3"
+  453  git pull --no-edit
+  454  git push origin master
+  455  git push origin master
+  456  git branch v0.0.1
+  457  git checkout v0.0.1
+  459  git add .
+  460  git commit -m"change4"
+  461  git push origin v0.0.1
+  463  git checkout master
+  469  git add .
+  471  git add .
+  472  git commit -m"change6"
+  473  git pull --no-edit
+  474  git push origin master
+  475  git checkout v0.0.1
+  476  git merge master
+  477  git add .
+  478  git commit -m"chang7"
+  479  git pull --no-edit
+  480  git push origin v0.0.1
+  487  cp -r git backup/
+  492  mv png.txt html.txt git/takehome
+  493  cd git/takehome
+  494  git add .
+  495  git checkout master
+  496  git add .
+  497  git commit -m"chang8"
+  498  git pull --no-edit
+  499  git push origin master
+  521  mkdir git 
+  522  cd git 
+  523  git clone https://github.com/dianeawu144/exam1.git
+  527  git add .
+  528  git commit -m "changed"
+  529  git push origin master
+  535  git branch v2.0 
+  536  git checkout v2.0
+  537  git push v2.0
+  538  git checkout master
+  540  git add .
+  541  git commit -m "changed1"
+  542  git push origin master
+  543  git checkout v2.0 
+  544  git merge master 
+  545  git push origin v2.0
+  547  git branch v3.0
+  548  git checkout v3.0
+  549  git push orgin v3.0 
+  550  git push origin v3.0
+  551  git checkout master
+  553  git add .
+  554  git commit -m "changed3"
+  555  git push origin master
+  556  git checkout v3.0
+  557  git merge master
+  559  git checkout master
+  562  history | grep "git" > history.txt

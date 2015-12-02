@@ -1,0 +1,5 @@
+<link="css/style.css" rel='stylesheet' /> 
+<body></body>
+<script scr="js/js.js"></script>
+</html>
+
